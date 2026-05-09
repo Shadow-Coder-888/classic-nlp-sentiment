@@ -1,13 +1,1001 @@
 text,label
-I love this product,positive
-This is amazing,positive
-Best experience ever,positive
-Absolutely fantastic service,positive
-I really like this,positive
-Very good quality,positive
-I hate this,negative
-This is terrible,negative
-Worst product ever,negative
-Absolutely awful experience,negative
-Very bad quality,negative
-I dislike this a lot,negative
+i love this product,positive
+this is amazing,positive
+absolutely fantastic,positive
+i am so happy with this,positive
+best purchase ever,positive
+great quality,positive
+highly recommend this,positive
+wonderful experience,positive
+exceeded my expectations,positive
+very satisfied with this,positive
+this is terrible,negative
+worst product ever,negative
+completely disappointed,negative
+total waste of money,negative
+do not buy this,negative
+awful quality,negative
+very unhappy with this,negative
+this is garbage,negative
+never buying again,negative
+horrible experience,negative
+i really enjoyed this,positive
+this made me smile,positive
+love every bit of it,positive
+so glad i bought this,positive
+works perfectly fine,positive
+just what i needed,positive
+outstanding product,positive
+very impressive quality,positive
+this is top notch,positive
+five stars all the way,positive
+this broke after one day,negative
+very poor build quality,negative
+not worth the price at all,negative
+completely useless product,negative
+fell apart immediately,negative
+stopped working after a week,negative
+extremely fragile and cheap,negative
+worst experience of my life,negative
+zero stars if possible,negative
+regret buying this completely,negative
+the service was excellent,positive
+staff were very helpful,positive
+quick and easy delivery,positive
+arrived on time and in great condition,positive
+packaging was really nice,positive
+customer support was brilliant,positive
+they resolved my issue fast,positive
+really smooth shopping experience,positive
+great value for money,positive
+will definitely order again,positive
+delivery was extremely late,negative
+item arrived damaged,negative
+customer service was rude,negative
+they ignored my complaint,negative
+refund process was a nightmare,negative
+took weeks to arrive,negative
+wrong item was sent to me,negative
+packaging was completely crushed,negative
+no response from the seller,negative
+very bad after sales service,negative
+i feel so good today,positive
+what a great day this is,positive
+everything is going well,positive
+i am in a fantastic mood,positive
+life is beautiful right now,positive
+feeling very positive today,positive
+so much to be grateful for,positive
+today was incredibly productive,positive
+i accomplished so much today,positive
+feeling proud of my progress,positive
+i hate everything about this,negative
+this ruins my whole day,negative
+nothing is going right today,negative
+i am so frustrated right now,negative
+everything feels hopeless today,negative
+i can not deal with this anymore,negative
+this is driving me crazy,negative
+i am extremely upset today,negative
+feeling very down and sad,negative
+this is just too much to handle,negative
+this movie was incredible,positive
+loved every moment of the film,positive
+great storyline and acting,positive
+beautifully directed movie,positive
+highly recommend watching this,positive
+best movie i have seen in years,positive
+kept me on the edge of my seat,positive
+the characters were so well written,positive
+very emotional and touching film,positive
+stunning visuals and soundtrack,positive
+boring movie waste of time,negative
+terrible plot and bad acting,negative
+i walked out halfway through,negative
+worst film i have ever watched,negative
+predictable and unoriginal story,negative
+the ending was very disappointing,negative
+could not follow the story at all,negative
+very slow and dragging pace,negative
+overrated and forgettable film,negative
+not worth watching at all,negative
+this food is delicious,positive
+best meal i have had in ages,positive
+the flavors were incredible,positive
+restaurant was amazing tonight,positive
+perfectly cooked and seasoned,positive
+food arrived hot and fresh,positive
+fantastic dining experience overall,positive
+chef really knows what they are doing,positive
+generous portions and great taste,positive
+will be coming back for sure,positive
+food was cold and tasteless,negative
+undercooked and poorly seasoned meal,negative
+hair found in my food,negative
+waited over an hour for food,negative
+terrible restaurant never going back,negative
+overpriced and underwhelming food,negative
+rude staff and bad service,negative
+my order was completely wrong,negative
+the place was dirty and unhygienic,negative
+worst dining experience ever had,negative
+the app is very easy to use,positive
+clean interface and smooth navigation,positive
+works flawlessly on my phone,positive
+really intuitive and well designed,positive
+no bugs or crashes at all,positive
+love the new update features,positive
+best app on my phone right now,positive
+very responsive and fast loading,positive
+great user experience overall,positive
+makes my life so much easier,positive
+app keeps crashing constantly,negative
+terrible user interface design,negative
+way too many annoying ads,negative
+drains battery very quickly,negative
+lost all my data after update,negative
+very slow and laggy app,negative
+too complicated to navigate,negative
+does not work as advertised,negative
+full of bugs and glitches,negative
+worst app i have ever used,negative
+beautiful sunny day today,positive
+the weather is perfect right now,positive
+enjoying the warm sunshine outside,positive
+lovely breeze and clear skies,positive
+perfect day for a walk,positive
+nature looks gorgeous today,positive
+feeling refreshed and alive today,positive
+birds are singing beautifully today,positive
+the garden looks amazing right now,positive
+such a peaceful and lovely day,positive
+horrible rainy cold weather today,negative
+stuck inside because of the storm,negative
+weather ruined my plans again,negative
+so gloomy and depressing outside,negative
+can not stand this cold weather,negative
+this weather makes me miserable,negative
+flooding in the streets again today,negative
+freezing and wet all day long,negative
+another terrible grey cloudy day,negative
+wish this awful weather would stop,negative
+my new shoes are fantastic,positive
+perfect fit and very comfortable,positive
+stylish and well made shoes,positive
+worth every penny i paid,positive
+exactly as described in the listing,positive
+great material and solid construction,positive
+really happy with this purchase,positive
+fast shipping and lovely packaging,positive
+these look even better in person,positive
+highly satisfied with this buy,positive
+shoes fell apart after one use,negative
+completely different from the photos,negative
+wrong size was sent to me,negative
+very uncomfortable to wear,negative
+cheap material that looks terrible,negative
+sole came off the first day,negative
+stitching came undone immediately,negative
+not worth the price at all,negative
+very disappointed with this order,negative
+returning these immediately,negative
+my dog is so adorable,positive
+my pet makes me so happy,positive
+animals are such pure joy,positive
+love spending time with my dog,positive
+my cat is absolutely hilarious,positive
+pets make life so much better,positive
+my dog learned a new trick today,positive
+so grateful for my furry companion,positive
+my pet always cheers me up,positive
+animals are the best companions ever,positive
+my dog destroyed the furniture again,negative
+pet keeps biting and scratching everything,negative
+vet bills are incredibly expensive,negative
+allergic to my own pet sadly,negative
+pet made a huge mess again,negative
+dog barked all night long,negative
+cat knocked everything off the shelf,negative
+impossible to train this animal,negative
+pet is constantly sick and unwell,negative
+so difficult dealing with this pet,negative
+excellent customer service experience,positive
+the staff really went above and beyond,positive
+they sorted my problem immediately,positive
+very professional and friendly team,positive
+could not have been more helpful,positive
+best support i have ever received,positive
+they really care about their customers,positive
+fast and efficient resolution today,positive
+very impressed with their service,positive
+will definitely use them again,positive
+no one answered my calls,negative
+customer service was extremely unhelpful,negative
+kept being put on hold forever,negative
+rude and dismissive staff member,negative
+they blamed me for their mistake,negative
+never resolved my issue at all,negative
+completely ignored my complaint email,negative
+terrible support experience overall,negative
+wasted hours trying to get help,negative
+would not recommend to anyone,negative
+finished my workout feeling great,positive
+hit a new personal best today,positive
+feeling strong and energized today,positive
+gym session was incredibly productive,positive
+love the progress i am making,positive
+fitness journey is going so well,positive
+so motivated to keep improving,positive
+healthy habits are changing my life,positive
+feeling confident and powerful today,positive
+exercise makes everything better,positive
+gym was way too crowded today,negative
+equipment was broken and dirty,negative
+trainer was rude and dismissive,negative
+injured myself at the gym today,negative
+not seeing any results at all,negative
+so tired and unmotivated today,negative
+gave up on my workout again,negative
+expensive membership not worth it,negative
+gym smells terrible and unclean,negative
+this fitness plan is not working,negative
+the book was absolutely gripping,positive
+could not put the book down,positive
+beautifully written and captivating,positive
+great characters and amazing plot,positive
+one of the best reads ever,positive
+highly recommend this book to everyone,positive
+so well researched and detailed,positive
+thought provoking and deeply inspiring,positive
+finished it in one sitting easily,positive
+looking forward to reading more,positive
+boring book could not finish it,negative
+terrible writing and weak plot,negative
+characters were flat and boring,negative
+very confusing and hard to follow,negative
+complete waste of my reading time,negative
+too slow and nothing happens,negative
+disappointing ending after all that,negative
+overrated book not worth reading,negative
+grammar and editing was very poor,negative
+worst book i have ever read,negative
+the concert was absolutely incredible,positive
+best live performance i have seen,positive
+the energy was amazing all night,positive
+band really gave it their all,positive
+crowd was fantastic and so alive,positive
+sound quality was absolutely perfect,positive
+an unforgettable night of music,positive
+so glad i got tickets for this,positive
+every song was brilliantly performed,positive
+magical experience from start to finish,positive
+concert was cancelled last minute,negative
+terrible sound quality throughout,negative
+crowd was too rough and aggressive,negative
+not worth the expensive ticket price,negative
+venue was overcrowded and uncomfortable,negative
+band seemed disinterested and lazy,negative
+arrived late and missed the opening,negative
+very disappointing performance overall,negative
+could not hear anything properly,negative
+worst concert experience i have had,negative
+my holiday was absolutely perfect,positive
+best vacation of my life so far,positive
+loved every moment of the trip,positive
+hotel was luxurious and beautiful,positive
+food and culture was amazing there,positive
+so many wonderful memories created,positive
+can not wait to go back again,positive
+the scenery was breathtakingly beautiful,positive
+staff at resort were incredibly kind,positive
+truly a once in a lifetime trip,positive
+holiday was completely ruined,negative
+hotel was dirty and overpriced,negative
+flight was delayed by many hours,negative
+lost luggage and got no help,negative
+weather was awful the whole time,negative
+too many tourists and overcrowded,negative
+food made me sick all week,negative
+tourist traps everywhere we went,negative
+the locals were very unwelcoming,negative
+would never return to that place,negative
+online class was very informative,positive
+teacher explained everything so clearly,positive
+learned so much from this course,positive
+great content and well structured,positive
+very engaging and interactive lessons,positive
+best online learning experience ever,positive
+highly recommend this course to all,positive
+practical and useful knowledge gained,positive
+well paced and easy to follow,positive
+improved my skills significantly today,positive
+online course was very misleading,negative
+teacher was unclear and confusing,negative
+content was outdated and incorrect,negative
+technical issues ruined every session,negative
+not worth the money at all,negative
+very disorganised and poorly planned,negative
+no support when i needed help,negative
+course was way too short,negative
+nothing new or useful was taught,negative
+deeply disappointed with this course,negative
+the coffee here is incredible,positive
+best cafe in the whole city,positive
+cozy atmosphere and great service,positive
+love coming here every morning,positive
+barista really knows their craft,positive
+freshly baked goods are delicious,positive
+great spot for working remotely,positive
+always leaves me feeling energized,positive
+wonderful little place to visit,positive
+the menu has something for everyone,positive
+coffee was cold and bitter today,negative
+overpriced drinks for poor quality,negative
+rude staff who ignored customers,negative
+very noisy and uncomfortable inside,negative
+dirty tables and messy environment,negative
+waited forever for my order,negative
+wrong order brought to my table,negative
+nothing fresh on the menu today,negative
+very disappointing visit overall,negative
+will not be returning here ever,negative
+just got promoted at work today,positive
+boss gave me great feedback today,positive
+team really pulled together today,positive
+feeling very valued at work today,positive
+productive and fulfilling work day,positive
+achieved all my goals this week,positive
+colleagues are supportive and kind,positive
+exciting new project starting today,positive
+salary raise came through finally,positive
+loving every challenge at work now,positive
+got passed over for promotion again,negative
+boss was very rude today,negative
+workload is completely overwhelming me,negative
+no recognition for my hard work,negative
+toxic work environment is exhausting,negative
+team is disorganised and unhelpful,negative
+hate going to work every day,negative
+work life balance is nonexistent now,negative
+constantly stressed and burned out,negative
+thinking of quitting my job soon,negative
+house renovation turned out beautifully,positive
+new home decor looks stunning,positive
+finally finished painting the bedroom,positive
+garden is looking lovely this year,positive
+so proud of my home improvements,positive
+cozy and comfortable home now,positive
+love what we have done with space,positive
+kitchen renovation was worth every penny,positive
+home feels brand new and fresh,positive
+so happy with how it all turned out,positive
+renovation is way over budget now,negative
+contractors did a terrible job,negative
+work was done poorly and slowly,negative
+house is a complete mess still,negative
+builder disappeared without finishing job,negative
+plumbing is leaking again after repairs,negative
+walls already cracking after painting,negative
+tiles were laid completely wrong,negative
+construction noise is unbearable daily,negative
+so stressed about this renovation,negative
+the new phone is absolutely incredible,positive
+best smartphone i have ever owned,positive
+camera quality is outstanding on this,positive
+battery lasts all day and night,positive
+very fast and responsive performance,positive
+sleek design and premium feel,positive
+love all the new features,positive
+screen is bright and beautiful,positive
+best upgrade i have made in years,positive
+really happy with this phone,positive
+phone overheats constantly throughout day,negative
+battery drains in just a few hours,negative
+camera is much worse than advertised,negative
+screen cracked so easily and quickly,negative
+software keeps freezing and crashing,negative
+poor signal reception everywhere i go,negative
+speaker quality is tinny and weak,negative
+not worth the premium price at all,negative
+phone slowed down after one week,negative
+very disappointed with this purchase,negative
+therapy has really changed my life,positive
+feeling so much better about myself,positive
+mental health journey is going well,positive
+finally starting to feel like myself,positive
+progress in therapy has been amazing,positive
+so grateful for the support i have,positive
+feeling hopeful and positive about future,positive
+self care has made a huge difference,positive
+opening up has helped me so much,positive
+healing takes time but it is worth it,positive
+struggling with anxiety every single day,negative
+feeling very overwhelmed and hopeless,negative
+cannot shake this dark feeling inside,negative
+mental health is really suffering now,negative
+therapy is not helping me at all,negative
+feeling completely alone and isolated,negative
+cannot stop the negative thoughts today,negative
+so exhausted from fighting my mind,negative
+nobody understands what i am feeling,negative
+just want to feel normal again,negative
+the hotel was absolutely stunning,positive
+room was spacious and very clean,positive
+staff were welcoming and professional,positive
+best hotel stay i have ever had,positive
+amenities were top class and modern,positive
+breakfast was delicious and plentiful,positive
+location was perfect for sightseeing,positive
+bed was so comfortable and cozy,positive
+great value for the price paid,positive
+will definitely stay here again,positive
+hotel room was dirty and smelly,negative
+bed sheets had stains on them,negative
+staff were unhelpful and dismissive,negative
+overpriced for what was offered,negative
+air conditioning was completely broken,negative
+noisy neighbors kept me up all night,negative
+bathroom had mold and leaking pipes,negative
+pool was closed during our stay,negative
+wifi was slow and kept disconnecting,negative
+will never book this hotel again,negative
+my garden is in full bloom now,positive
+vegetables growing so well this year,positive
+love spending time outdoors gardening,positive
+fresh herbs from my own garden,positive
+flowers are blooming beautifully today,positive
+growing my own food feels rewarding,positive
+garden brings me so much peace,positive
+harvested my first tomatoes today,positive
+outdoor space looks wonderful this season,positive
+gardening is so therapeutic and calming,positive
+pests destroyed all my plants,negative
+soil quality is really terrible here,negative
+nothing seems to grow properly here,negative
+garden flooded after the heavy rain,negative
+slugs ate everything i planted,negative
+too much work for poor results,negative
+weeds are completely out of control,negative
+plants keep wilting despite my efforts,negative
+wasted money on seeds that failed,negative
+so frustrated with my garden,negative
+new laptop is incredibly fast,positive
+performance is far beyond my expectations,positive
+love the sleek and lightweight design,positive
+battery life is surprisingly very good,positive
+screen resolution is sharp and clear,positive
+perfect for work and studying,positive
+keyboard is comfortable to type on,positive
+runs silently even under heavy load,positive
+best laptop i have ever owned,positive
+highly recommend this to everyone,positive
+laptop arrived with a cracked screen,negative
+overheats within minutes of use,negative
+battery barely lasts two hours,negative
+keyboard keys keep sticking constantly,negative
+very slow startup and performance,negative
+fan is extremely loud and annoying,negative
+hinge feels flimsy and weak,negative
+touchpad is unresponsive and laggy,negative
+not worth the price i paid,negative
+deeply disappointed with this laptop,negative
+the train journey was very pleasant,positive
+seats were comfortable and spacious,positive
+train arrived exactly on time,positive
+beautiful scenery along the route,positive
+staff were friendly and helpful,positive
+nice and quiet carriage throughout,positive
+smooth and relaxing ride overall,positive
+good food available on board,positive
+great way to travel across country,positive
+loved every minute of the journey,positive
+train was delayed by three hours,negative
+carriages were overcrowded and hot,negative
+no working toilets on the train,negative
+seats were dirty and uncomfortable,negative
+rude and unhelpful train staff,negative
+missed my connection because of delay,negative
+had to stand the entire journey,negative
+food on board was overpriced and cold,negative
+train broke down in the middle of nowhere,negative
+terrible travel experience overall,negative
+my new headphones sound phenomenal,positive
+deep bass and crisp clear sound,positive
+very comfortable to wear all day,positive
+noise cancelling works incredibly well,positive
+great build quality and design,positive
+battery lasts for many hours,positive
+connects easily and stays connected,positive
+best audio purchase i have made,positive
+perfect for music and calls,positive
+completely happy with this product,positive
+sound quality is really poor,negative
+ear cups hurt after an hour,negative
+noise cancelling barely works at all,negative
+battery dies very quickly,negative
+keeps disconnecting from my device,negative
+microphone quality is terrible,negative
+feels cheap and flimsy overall,negative
+broke after just two weeks,negative
+not worth half the price asked,negative
+very unhappy with this product,negative
+my coding project is going great,positive
+solved a really difficult bug today,positive
+learned a new programming technique,positive
+code review went very well today,positive
+finally deployed my app to production,positive
+team loved my feature implementation,positive
+productive coding session this morning,positive
+proud of the clean code i wrote,positive
+exciting new feature is working now,positive
+love the satisfaction of solving problems,positive
+spent all day on one bug,negative
+code keeps breaking after every change,negative
+deployment failed for the third time,negative
+merge conflict ruined all my work,negative
+deadline is impossible to meet,negative
+technical debt is out of control,negative
+cannot figure out this algorithm at all,negative
+frustrated with my slow progress,negative
+imposter syndrome is hitting hard today,negative
+this codebase is an absolute nightmare,negative
+the wedding was absolutely beautiful,positive
+bride and groom looked incredible,positive
+ceremony was heartfelt and emotional,positive
+food and drinks were outstanding,positive
+best wedding i have ever attended,positive
+wonderful venue and great atmosphere,positive
+speeches were funny and touching,positive
+danced all night at the reception,positive
+so happy for the couple,positive
+memories from today will last forever,positive
+wedding was completely disorganised,negative
+food ran out before most guests ate,negative
+music was too loud and obnoxious,negative
+ceremony started very late,negative
+venue was not as advertised at all,negative
+groom forgot the rings apparently,negative
+constant drama ruined the whole day,negative
+invitation said wrong date and time,negative
+very uncomfortable seating arrangement,negative
+one of the worst events ever attended,negative
+sunrise this morning was breathtaking,positive
+such a beautiful start to the day,positive
+feeling at peace with everything today,positive
+morning meditation was very calming,positive
+woke up full of energy and joy,positive
+grateful for another wonderful day,positive
+today feels full of possibility,positive
+fresh morning air is so refreshing,positive
+birds chirping makes me so happy,positive
+excited to see what today brings,positive
+woke up with a terrible headache,negative
+alarm did not go off this morning,negative
+spilled coffee all over myself,negative
+late for work again today,negative
+day started badly and got worse,negative
+argument first thing in the morning,negative
+terrible nightmare woke me early,negative
+feeling exhausted and unrested today,negative
+everything went wrong from the start,negative
+this day needs to end soon,negative
+university lectures were very engaging,positive
+professor explained everything clearly,positive
+campus life is exciting and fun,positive
+made great friends at university,positive
+really enjoying my course this semester,positive
+library is well stocked and quiet,positive
+student union events are always fun,positive
+campus facilities are excellent here,positive
+internship through uni was amazing,positive
+proud to be studying at this university,positive
+lectures are extremely boring here,negative
+professor reads directly from slides,negative
+campus food is overpriced and bad,negative
+very difficult to find study space,negative
+assignments are vague and confusing,negative
+no support from tutors when needed,negative
+course content is outdated and dull,negative
+too much pressure and stress here,negative
+student accommodation is terrible,negative
+not enjoying university experience at all,negative
+yoga class was incredibly relaxing,positive
+feeling very centered and balanced today,positive
+love the mindfulness practice daily,positive
+great instructor and supportive group,positive
+breathwork really calmed my mind,positive
+flexibility has improved so much,positive
+yoga truly changes your perspective,positive
+left class feeling completely refreshed,positive
+best stress relief i have found,positive
+highly recommend yoga to everyone,positive
+class was too fast for beginners,negative
+instructor was not helpful at all,negative
+studio was too hot and stuffy,negative
+felt judged the entire session,negative
+injured my back during class today,negative
+class was cancelled without any notice,negative
+too expensive for what it offers,negative
+could not follow the instructions at all,negative
+very unwelcoming and cliquey group,negative
+will not be returning to this studio,negative
+the documentary was eye opening,positive
+incredibly well made and informative,positive
+changed the way i see the world,positive
+brilliant storytelling and footage,positive
+kept me glued to the screen,positive
+highly recommend watching this one,positive
+very important topic covered well,positive
+emotional and thought provoking film,positive
+beautiful cinematography throughout,positive
+one of the best documentaries ever,positive
+very biased and one sided view,negative
+boring and hard to stay awake,negative
+nothing new or insightful shared,negative
+too long and repetitive throughout,negative
+poor production and sound quality,negative
+misleading title and false promises,negative
+very shallow coverage of complex topic,negative
+narration was annoying and distracting,negative
+not based on accurate facts at all,negative
+waste of ninety minutes of my life,negative
+new neighborhood is very friendly,positive
+love the community feel here,positive
+everything i need is nearby,positive
+quiet and safe streets around here,positive
+beautiful parks and green spaces,positive
+great local shops and cafes,positive
+neighbors are warm and welcoming,positive
+so glad we moved to this area,positive
+perfect place to raise a family,positive
+completely happy with our new home area,positive
+neighborhood is noisy and unsafe,negative
+constant litter and graffiti everywhere,negative
+no nearby shops or amenities,negative
+terrible traffic at all hours,negative
+neighbors are rude and inconsiderate,negative
+area feels very run down,negative
+poor street lighting makes it unsafe,negative
+local crime rate is very high,negative
+no green spaces for children to play,negative
+regret moving to this area,negative
+the podcast was incredibly insightful,positive
+learned so much from this episode,positive
+host is engaging and very knowledgeable,positive
+great guests and interesting topics,positive
+perfect for my morning commute,positive
+always leaves me thinking deeply,positive
+production quality is excellent,positive
+highly recommend to everyone i know,positive
+can not wait for the next episode,positive
+one of the best podcasts out there,positive
+podcast is incredibly boring to listen,negative
+host talks too much without substance,negative
+audio quality is really poor,negative
+too many annoying ads throughout,negative
+guests are always uninformed,negative
+topics are repetitive and overdone,negative
+episodes are way too long,negative
+host keeps interrupting every guest,negative
+very shallow and surface level content,negative
+stopped listening after ten minutes,negative
+my meditation practice is growing,positive
+feeling more calm and centered daily,positive
+mindfulness has changed my outlook,positive
+ten minutes a day makes a difference,positive
+sleep quality has improved so much,positive
+stress levels are much lower now,positive
+love the sense of inner peace,positive
+grateful for this daily practice,positive
+highly recommend meditation to everyone,positive
+mental clarity has never been better,positive
+cannot quiet my mind at all,negative
+too restless to sit and meditate,negative
+felt more anxious after trying it,negative
+guided meditation app keeps crashing,negative
+too many distractions to focus,negative
+not seeing any benefits at all,negative
+frustrating and boring experience,negative
+gave up after a few attempts,negative
+not for everyone including me,negative
+meditation is not working for me,negative
+the art exhibition was inspiring,positive
+stunning pieces from talented artists,positive
+loved the creative use of color,positive
+curators did an outstanding job,positive
+very well laid out gallery space,positive
+moving and emotionally resonant work,positive
+discovered several amazing new artists,positive
+will definitely visit this gallery again,positive
+thought provoking and beautiful work,positive
+one of the best exhibitions seen,positive
+art exhibition was very underwhelming,negative
+most pieces were confusing and pointless,negative
+gallery was cramped and poorly lit,negative
+staff were unfriendly and unhelpful,negative
+overpriced entry for what was inside,negative
+nothing worth seeing inside honestly,negative
+very pretentious and inaccessible,negative
+too crowded to enjoy anything properly,negative
+audio guide was broken and useless,negative
+left feeling completely uninspired,negative
+swimming in the ocean felt amazing,positive
+water was crystal clear and warm,positive
+beach was clean and beautiful,positive
+waves were perfect for surfing,positive
+snorkeling revealed incredible sea life,positive
+most relaxing day spent at beach,positive
+stunning coastal views all around,positive
+sand between toes feels wonderful,positive
+perfect way to spend a summer day,positive
+will remember this beach forever,positive
+beach was littered and dirty,negative
+water was freezing and uninviting,negative
+too many jellyfish in the water,negative
+got badly sunburned today,negative
+beach was dangerously overcrowded,negative
+lost my wallet in the sand,negative
+waves were too rough and scary,negative
+seagulls stole all my food,negative
+parking was expensive and far away,negative
+beach trip was a complete disaster,negative
+charity run was so rewarding,positive
+raised lots of money for a great cause,positive
+feeling proud of completing the race,positive
+amazing community spirit on the day,positive
+volunteers were incredibly supportive,positive
+great organization and clear route,positive
+personal best time achieved today,positive
+inspired by so many fellow runners,positive
+wonderful atmosphere throughout event,positive
+will definitely sign up again next year,positive
+event was very poorly organised,negative
+route was not clearly marked at all,negative
+ran out of water stations early,negative
+started an hour late with no warning,negative
+chip timing was completely inaccurate,negative
+medal was cheap and poorly made,negative
+crowded starting line caused injuries,negative
+fundraising page kept crashing,negative
+no changing facilities available,negative
+disappointing experience after training hard,negative
+new recipe turned out perfectly,positive
+family loved the dinner i made,positive
+cooking is so relaxing and fun,positive
+fresh ingredients made such a difference,positive
+proud of how this dish turned out,positive
+learned a great new cooking technique,positive
+kitchen smells absolutely incredible,positive
+meal prep saved me so much time,positive
+homemade food is always the best,positive
+love trying new cuisines at home,positive
+dinner was completely burnt tonight,negative
+forgot a key ingredient completely,negative
+recipe instructions were very unclear,negative
+spent hours cooking to no avail,negative
+nobody enjoyed the food i made,negative
+ran out of gas mid cooking,negative
+kitchen was a complete disaster zone,negative
+food poisoning from my own cooking,negative
+wasted expensive ingredients on this,negative
+never attempting that recipe again,negative
+the startup pitch went very well,positive
+investors seemed genuinely interested,positive
+team delivered a flawless presentation,positive
+product demo impressed everyone there,positive
+great feedback from the panel,positive
+confident about securing funding now,positive
+months of preparation paid off today,positive
+proud of the whole team today,positive
+exciting next steps ahead for us,positive
+believe in this product completely,positive
+pitch was rejected immediately,negative
+investors were uninterested throughout,negative
+technical demo failed completely,negative
+team was not prepared enough,negative
+received very harsh criticism today,negative
+presentation went completely off track,negative
+lost confidence halfway through pitch,negative
+months of work dismissed in minutes,negative
+competitor beat us on every point,negative
+so disheartened by today's outcome,negative
+reading to my kids is wonderful,positive
+children love story time every night,positive
+watching them learn to read is magical,positive
+family reading time brings us together,positive
+their imagination grows every day,positive
+so proud of their reading progress,positive
+books open up entire new worlds,positive
+love sharing my favourite books with them,positive
+kids ask for more stories every night,positive
+reading together is my favourite time,positive
+kids refuse to sit still for stories,negative
+they lost interest after one page,negative
+sibling arguments ruined story time,negative
+borrowed library book was damaged,negative
+too tired to read to them tonight,negative
+kids prefer screens over books sadly,negative
+could not find their favourite book,negative
+reading time turned into a meltdown,negative
+no time in the evenings for reading,negative
+feel guilty for missing story time,negative
+the sunset was absolutely gorgeous,positive
+sky was painted in beautiful colours,positive
+magical end to a wonderful day,positive
+loved watching the sun go down,positive
+one of nature's greatest free shows,positive
+felt so peaceful and content watching,positive
+took stunning photos of the sunset,positive
+perfect end to a perfect evening,positive
+shared the sunset with someone special,positive
+moments like these make life beautiful,positive
+clouds blocked the sunset entirely,negative
+too cold to enjoy it outside,negative
+missed the best part by seconds,negative
+smoke from fires ruined the sky,negative
+too tired to even look outside,negative
+was stuck in traffic during sunset,negative
+phone battery dead so no photos,negative
+argument ruined a beautiful moment,negative
+skies were grey and dreary instead,negative
+missed it because of work again,negative
+job interview went really well today,positive
+felt confident and well prepared,positive
+interviewer was friendly and engaging,positive
+questions were fair and interesting,positive
+salary offered was beyond expectations,positive
+company culture seemed amazing there,positive
+left feeling very positive about role,positive
+received callback within the same day,positive
+dream job feels within reach now,positive
+so excited about this opportunity,positive
+interview was extremely nerve wracking,negative
+blanked on a basic question completely,negative
+interviewer was cold and dismissive,negative
+arrived late due to bad traffic,negative
+salary offered was insultingly low,negative
+company culture seemed very toxic,negative
+felt completely underprepared throughout,negative
+they ghosted me after interview,negative
+rejection email came within an hour,negative
+very disheartening experience overall,negative
+new bicycle is an absolute joy,positive
+cycling to work feels amazing now,positive
+great build quality and smooth ride,positive
+love the freedom cycling gives me,positive
+best investment in my health ever,positive
+gears shift perfectly every time,positive
+comfortable seat for long rides,positive
+brakes are responsive and reliable,positive
+lights are bright and very visible,positive
+highly recommend this bike to all,positive
+bike broke down on first ride,negative
+gears keep slipping and jamming,negative
+seat is incredibly uncomfortable,negative
+tyres went flat within a week,negative
+brakes failed on a steep hill,negative
+rust appeared after just one rain,negative
+handlebars came loose while riding,negative
+delivery left bike badly damaged,negative
+assembly instructions were completely wrong,negative
+returning this bike immediately,negative
+the spa day was absolutely heavenly,positive
+massages were deeply relaxing,positive
+staff were attentive and skilled,positive
+facilities were luxurious and spotless,positive
+left feeling completely renewed,positive
+best self care day in years,positive
+skin feels amazing after treatments,positive
+perfect birthday treat for myself,positive
+will definitely be returning soon,positive
+highly recommend this spa to all,positive
+spa was overpriced and underwhelming,negative
+masseuse was rough and careless,negative
+facilities were dirty and run down,negative
+steam room was broken entire time,negative
+staff were rude and inattentive,negative
+treatments were rushed and poor,negative
+strong chemicals smell throughout,negative
+not relaxing at all surprisingly,negative
+left feeling worse than when arrived,negative
+complete waste of money today,negative
+my photography skills are improving,positive
+captured a stunning shot today,positive
+love experimenting with light and shadow,positive
+new lens makes such a difference,positive
+photo editing is so satisfying,positive
+great feedback from photography group,positive
+landscape photos turned out beautifully,positive
+passion for photography is growing daily,positive
+printed my best shots for display,positive
+proud of how far i have come,positive
+photos are always blurry and dark,negative
+expensive camera not making difference,negative
+missed perfect shot due to slow focus,negative
+photo editing software keeps crashing,negative
+lighting is always wrong in shots,negative
+not improving despite lots of practice,negative
+comparison to others makes me feel bad,negative
+camera equipment got damaged today,negative
+nobody engages with my photography,negative
+considering giving up on photography,negative
+the volunteering experience was incredible,positive
+helped so many people today,positive
+community spirit was overwhelming,positive
+feel a deep sense of purpose,positive
+grateful to give back to community,positive
+team of volunteers was fantastic,positive
+organization was well run and clear,positive
+made real difference in people's lives,positive
+will volunteer every week from now,positive
+most fulfilling thing i have done,positive
+volunteering was poorly organised,negative
+felt like my time was wasted,negative
+coordinators were rude and chaotic,negative
+not enough materials for the tasks,negative
+no clear direction given to us,negative
+felt unsafe in the environment,negative
+commitment required was unrealistic,negative
+promised training never materialised,negative
+very disappointing experience overall,negative
+will not volunteer here again,negative
+board game night was so much fun,positive
+everyone was laughing all evening,positive
+great way to connect with friends,positive
+competitive but always in good spirit,positive
+discovered an amazing new game tonight,positive
+best evening spent indoors ever,positive
+love the friendly rivalry between us,positive
+memories made around the table tonight,positive
+looking forward to next games night,positive
+these are the moments that matter,positive
+argument broke out over the rules,negative
+game took way too long to finish,negative
+someone flipped the board in anger,negative
+missing pieces ruined the whole game,negative
+too competitive and not fun at all,negative
+boring game nobody enjoyed playing,negative
+one person dominated and it was dull,negative
+got very bored after ten minutes,negative
+instructions were confusing and unclear,negative
+will not be hosting this again,negative
+first day of spring feels wonderful,positive
+flowers are starting to bloom again,positive
+days are getting longer and brighter,positive
+fresh air after winter is amazing,positive
+everything feels new and alive again,positive
+jackets are finally being put away,positive
+kids playing outside make me smile,positive
+nature is waking up beautifully,positive
+optimism comes naturally in spring,positive
+favourite season is finally here,positive
+allergies ruining the spring season,negative
+pollen count is unbearable today,negative
+weather still cold despite being spring,negative
+rain has not stopped all week,negative
+garden still looks bare and dead,negative
+cold snap destroyed my early plants,negative
+muddy boots every single day,negative
+spring cleaning is so overwhelming,negative
+neighbours noisy with outdoor work,negative
+spring is overrated if you ask me,negative
+the charity gala was magnificent,positive
+raised record amount for great causes,positive
+speeches were inspiring and moving,positive
+food and entertainment were exceptional,positive
+met incredibly generous people tonight,positive
+beautiful venue and great atmosphere,positive
+so proud to have been part of this,positive
+community coming together is powerful,positive
+auction raised far more than expected,positive
+unforgettable evening for a great cause,positive
+gala was poorly run and chaotic,negative
+food was cold and tasteless sadly,negative
+auctioneer was rude and pushy,negative
+not enough seating for all guests,negative
+speeches dragged on far too long,negative
+sound system kept cutting out,negative
+far too expensive for what it was,negative
+organisers were dismissive of feedback,negative
+event ran two hours over time,negative
+very disappointed in the whole event,negative
